@@ -1,0 +1,13 @@
+.index {
+    width: 200px;
+    height: 800px;
+    border: solid;
+    float: left;
+}
+
+.maintext {
+    width: 1250px;
+    height: 800px;
+    border: solid;
+    float: left;
+}
